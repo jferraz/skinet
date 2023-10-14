@@ -67,3 +67,4 @@ D:\Estudo\Udemy\skinet\API\bin\Debug\net7.0\Humanizer.dll
 D:\Estudo\Udemy\skinet\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Estudo\Udemy\skinet\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\Estudo\Udemy\skinet\API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Estudo\Udemy\skinet\API\obj\Debug\net7.0\API.sourcelink.json
